@@ -19,17 +19,14 @@ JARVIS-GUI is a personal AI assistant featuring a custom desktop interface and a
 2. Install Libraries
 Install all required libraries using the terminal:
 
-Bash
 pip install -r requirements.txt
 3. Add Your API Key
 Copy the .env.example file and rename it to .env.
 
 Open the .env file and insert your personal Gemini API key:
 
-Фрагмент кода
 GEMINI_API_KEY=your_actual_api_key_here
 4. Start JARVIS
 Launch the assistant by running the main interface:
 
-Bash
 python main_gui.py
