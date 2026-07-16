@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+jarvis_voice_*.mp3
+jarvis_memory.txt
+/MUSIC/*
+!/MUSIC/.gitkeep

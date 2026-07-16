@@ -1,0 +1,9 @@
+google-genai
+customtkinter
+pygame
+psutil
+python-dotenv
+edge-tts
+GPUtil
+pyautogui
+pygetwindow
